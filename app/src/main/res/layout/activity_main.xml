@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <!-- Ajout du texte d'introduction -->
+    <TextView
+        android:id="@+id/textViewIntroLabel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/intro_label"
+        android:padding="18dp"
+        android:textSize="16sp"
+        android:gravity="center"/>
+
+    <!-- Utilisation de CoordinatorLayout comme conteneur principal -->
+    <androidx.coordinatorlayout.widget.CoordinatorLayout
+        android:id="@+id/layoutContainer"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        tools:context=".gui.main.MainActivity">
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/recyclerView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+       <!-- <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:id="@+id/fab"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|end"
+            android:layout_marginEnd="@dimen/fab_margin"
+            android:layout_marginBottom="@dimen/fab_margin"
+            app:srcCompat="@android:drawable/ic_input_add" /> -->
+
+
+         <!--  <ImageView
+                android:layout_width="75dp"
+                android:layout_height="75dp"
+                android:src="@mipmap/ic_launcher"
+                android:layout_gravity="bottom|center_horizontal"
+                android:layout_marginBottom="@dimen/fab_margin" />
+                -->
+
+
+
+    </androidx.coordinatorlayout.widget.CoordinatorLayout>
+
+</LinearLayout>
