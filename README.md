@@ -3,15 +3,15 @@
 ## 🇫🇷
 NoReels est une application permettant de bloquer les Reels sur Instagram & YouTube sans avoir à supprimer l'app entière grâce à l'AccessibilityService d'Android.
 
-- [Site du projet](https://noreels.hlly.fr/)
-- [Télécharger l'APK](https://noreels.hlly.fr/data/NoReels.apk)
+- <a href="https://noreels.hlly.fr/" target="_blank">Site du projet</a>
+- <a href="https://noreels.hlly.fr/data/NoReels.apk" target="_blank">Télécharger l'APK</a>
 
-*Basé sur [le projet GitHub AdAid de NikLeberg](https://github.com/NikLeberg/AdAid).*
+*Basé sur <a href="https://github.com/NikLeberg/AdAid" target="_blank">le projet GitHub AdAid de NikLeberg</a>.*
 
 ## 🇬🇧
 NoReels is an application that allows you to block Reels on Instagram & YouTube without having to delete the entire app thanks to Android's AccessibilityService.
 
-- [Project website](https://noreels.hlly.fr/)
-- [Download the APK](https://noreels.hlly.fr/data/NoReels.apk)
+- <a href="https://noreels.hlly.fr/" target="_blank">Project website</a>
+- <a href="https://noreels.hlly.fr/data/NoReels.apk" target="_blank">Download the APK</a>
 
-*Based on [the GitHub project AdAid by NikLeberg](https://github.com/NikLeberg/AdAid).*
+*Based on <a href="https://github.com/NikLeberg/AdAid" target="_blank">the GitHub project AdAid by NikLeberg</a>.*
