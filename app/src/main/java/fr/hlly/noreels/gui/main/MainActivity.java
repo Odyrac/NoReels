@@ -183,7 +183,7 @@ public class MainActivity extends AppCompatActivity implements RuleObserver, Rul
             defaultRule3.name = "YouTube Shorts";
             defaultRule3.enabled = false;
             defaultRule3.appId = "com.google.android.youtube";
-            defaultRule3.viewId = "reel_right_footer";
+            defaultRule3.viewId = "reel_player_underlay";
             defaultRule3.actionType = ActionType.ACTION_CLICK;
             data.add(this, defaultRule3);
             runOnUiThread(adapter::notifyDataSetChanged);

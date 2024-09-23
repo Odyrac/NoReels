@@ -75,7 +75,7 @@
     <string name="battery_optimization_not_enabled_message">Battery optimization is not disabled for this app. Please disable it in settings.</string>
     <string name="battery_optimization_not_enabled_action">Open settings</string>
 
-    <string name="intro_label">This app is a Reels blocker to prevent you from watching them on social media platforms.\nBy Odyrac/Louis Halley.</string>
+    <string name="intro_label">This app is a Reels blocker to prevent you from watching them on social media platforms.\n\nBy Odyrac/Louis Halley.\n\n- v. 1.0.1 -</string>
 
 
 </resources>
